@@ -19,7 +19,9 @@ This project is a machine learning-driven analysis of how long it takes for deal
 ## 📁 Project Structure
 
 ├── eda_adsim.ipynb # Main notebook with EDA and model 
+
 ├── adsim_config.py # Configuration for DB access and tokens (not included) 
+
 ├── requirements.txt # Dependencies
 
 ## 🛠️ Requirements
